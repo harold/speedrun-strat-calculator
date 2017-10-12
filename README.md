@@ -1,6 +1,6 @@
 # speedrun-strat-calculator
 
-A [reagent](https://github.com/reagent-project/reagent) application for quantifying decisions related to split timing decisions (which come up from time to time in video game speedrunning).
+A [reagent](https://github.com/reagent-project/reagent) application for quantifying decisions related to split timing (which come up from time to time in video game speedrunning).
 
 ## Development Mode
 
